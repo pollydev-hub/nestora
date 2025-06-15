@@ -1,0 +1,55 @@
+{
+  "siteTitle": "NESTORA",
+  "menu": {
+    "news": "News",
+    "about": "About",
+    "contact": "Contact",
+    "products": "Products & Services"
+  },
+  "news": {
+    "title": "Great News",
+    "text": "It's already warm!"
+  },
+  "about": {
+    "title": "Southern Federal University"
+  },
+  "contact": {
+    "phone": "+7 908 517 50 43"
+  },
+  "products": {
+    "header": "Home Goods",
+    "table": {
+      "name": "Product",
+      "description": "Description",
+      "price": "Price"
+    },
+    "items": [
+      {
+        "name": "Ceramic Mug",
+        "description": "350 ml, white, microwave-safe",
+        "price": "350 RUB"
+      },
+      {
+        "name": "Orthopedic Pillow",
+        "description": "Ergonomic shape, memory foam material",
+        "price": "1200 RUB"
+      },
+      {
+        "name": "Fleece Plaid",
+        "description": "150x200 cm, soft and warm",
+        "price": "950 RUB"
+      }
+    ],
+    "download": "Download demo file"
+  },
+  "tags": "Tag cloud",
+  "tagsList": [
+    "Kitchen",
+    "Bedroom",
+    "Textiles",
+    "Tableware",
+    "New Arrivals",
+    "Popular"
+  ],
+  "contactsFooter": "Contacts: +7 908 517 50 43 | © 2025"
+}

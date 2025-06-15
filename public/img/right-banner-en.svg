@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="360"
+   height="400"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="right-banner-en.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.78930795"
+     inkscape:cx="285.05984"
+     inkscape:cy="238.8168"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     id="g1">
+    <title
+       id="title1">Layer 1</title>
+    <rect
+       width="360"
+       height="396.00001"
+       rx="28"
+       fill="#fdf0aa"
+       stroke-width="6"
+       id="svg_1"
+       stroke="#ffd600"
+       y="0"
+       x="0" />
+    <text
+       x="180.62622"
+       y="84.987183"
+       font-family="Montserrat, Arial, sans-serif"
+       font-size="45px"
+       font-weight="bold"
+       fill="#ff7043"
+       text-anchor="middle"
+       id="svg_2"
+       opacity="0.99">Spring</text>
+    <rect
+       x="24"
+       y="125.99998"
+       width="312.00001"
+       height="251"
+       rx="40"
+       fill="#ffe082"
+       id="svg_4"
+       stroke="null" />
+    <text
+       x="180"
+       y="332.39322"
+       font-family="Montserrat, Arial, sans-serif"
+       font-size="24px"
+       fill="#757575"
+       text-anchor="middle"
+       id="svg_5"
+       stroke="null"
+       transform="matrix(1,0,0,0.94889,0,-5.61)"
+       stroke-dasharray="2, 2"
+       style="font-size:32.8505px"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="180"
+         y="332.39322"
+         style="font-size:32.8505px">This month</tspan><tspan
+         sodipodi:role="line"
+         x="180"
+         y="373.45633"
+         style="font-size:32.8505px"
+         id="tspan3">only!</tspan></text>
+    <text
+       x="180.42549"
+       y="189.79059"
+       font-family="Montserrat, Arial, sans-serif"
+       font-size="36px"
+       font-weight="bold"
+       fill="#43a047"
+       text-anchor="middle"
+       id="svg_3"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="180.42549"
+         y="189.79059">Up to 30%</tspan><tspan
+         sodipodi:role="line"
+         x="180.42549"
+         y="234.79059"
+         id="tspan5">discount</tspan></text>
+    <path
+       fill="#ff7043"
+       stroke-dasharray="2,2"
+       d="m333.69664,67.35298l-14.52547,5.16742l0,-10.32934l14.52547,5.16192zm-10.54672,-25.45465l-6.61749,13.92838l-7.30263,-7.30814l13.92012,-6.62025l0,0.00001zm-25.4519,-10.54121l5.16467,14.52822l-10.33209,0l5.16742,-14.52822zm-25.45465,10.54121l13.92563,6.62025l-7.30538,7.30814l-6.62024,-13.92838l-0.00001,-0.00001zm-10.54396,25.45465l14.52822,-5.16192l0,10.32934l-14.52822,-5.16742zm10.54396,25.45465l6.62024,-13.92288l7.30538,7.30538l-13.92563,6.61749l0,0l0.00001,0.00001zm25.45465,10.54947l-5.16742,-14.53097l10.33209,0l-5.16467,14.53097zm25.4519,-10.54947l-13.92287,-6.61474l7.30263,-7.30538l6.62024,13.92013l0,-0.00001zm-43.44983,-25.45465l0,0c0,-9.93862 8.05931,-17.99793 18.00068,-17.99793c9.93862,0 18.00068,8.05931 18.00068,17.99793c0,9.94138 -8.06206,18.00069 -18.00068,18.00069c-9.94412,0 -18.00068,-8.05931 -18.00068,-18.00069l0,0z"
+       id="svg_8"
+       opacity="0.99" />
+  </g>
+</svg>

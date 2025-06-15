@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="366"
+   height="307.03922"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="left-banner-ru.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.11625"
+     inkscape:cx="76.147816"
+     inkscape:cy="123.18029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     id="g1"
+     transform="translate(3.0000013,-91.960799)">
+    <title
+       id="title1">Layer 1</title>
+    <rect
+       width="360.75656"
+       height="301.79578"
+       rx="28.058844"
+       fill="#fdf0aa"
+       stroke-width="5.24344"
+       id="svg_1"
+       stroke="#ffd600"
+       y="94.58252"
+       x="-0.37828124"
+       style="fill:#9aced0;fill-opacity:1;stroke:#1c3664;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+       x="179.38281"
+       y="180.96304"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="179.38281"
+         y="180.96304"
+         style="font-size:42.6667px;text-align:center;text-anchor:middle">Скидка </tspan><tspan
+         sodipodi:role="line"
+         x="179.38281"
+         y="234.29642"
+         id="tspan2"
+         style="font-size:42.6667px;text-align:center;text-anchor:middle">10% </tspan><tspan
+         sodipodi:role="line"
+         x="179.38281"
+         y="287.62979"
+         id="tspan3"
+         style="font-size:42.6667px;text-align:center;text-anchor:middle">на первую</tspan><tspan
+         sodipodi:role="line"
+         x="179.38281"
+         y="340.96317"
+         id="tspan4"
+         style="font-size:42.6667px;text-align:center;text-anchor:middle"> покупку</tspan></text>
+  </g>
+</svg>
